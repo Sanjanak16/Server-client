@@ -1,0 +1,1 @@
+Language used: openjdk version "11.0.11" 2021-04-20OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)OpenJDK 64-Bit Server VM AdoptOpenJDK-11.0.11+9 (build 11.0.11+9, mixed mode)Code structure:-> Server.java-> Client.javaRunning the code:Ñ>javac Server.java	java Server->javac Client.java	java Client
